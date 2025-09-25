@@ -6,13 +6,12 @@ _Writing markdown not hard_
 *writing markdown not hard*
 
 ### ostikko 2 bold
-__ I will complete this task__
 ** i will complete this task**
 
 ### otsikko 3 bold and italics
-*"of course i will her her ," __ when she needs__
+** "of course i will her her ," **_ when she needs_
 
-### otsikko bold and italics in same wors
+### otsikko bold and italics in same words
 ** _ if you are thinking to yourself, this is unbelievable, you would probably rigt_**
 
 ### Headers
@@ -24,7 +23,7 @@ __ I will complete this task__
 ###### This is header six
 
 ### links
-[visit Github!][https://www.hithub.com]
+[visit Github!][def]
 
 
 ### Images
@@ -52,3 +51,5 @@ __ I will complete this task__
   Basically **take** the same guidence as above: dont be messy, but it you are, clean it up!
 
 
+
+[def]: https://www.hithub.com
